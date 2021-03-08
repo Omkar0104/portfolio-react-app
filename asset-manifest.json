@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-react-app/static/css/main.e3984802.chunk.css",
+    "main.js": "/portfolio-react-app/static/js/main.6a41529a.chunk.js",
+    "main.js.map": "/portfolio-react-app/static/js/main.6a41529a.chunk.js.map",
+    "runtime-main.js": "/portfolio-react-app/static/js/runtime-main.1aaf38bf.js",
+    "runtime-main.js.map": "/portfolio-react-app/static/js/runtime-main.1aaf38bf.js.map",
+    "static/js/2.b0be6d78.chunk.js": "/portfolio-react-app/static/js/2.b0be6d78.chunk.js",
+    "static/js/2.b0be6d78.chunk.js.map": "/portfolio-react-app/static/js/2.b0be6d78.chunk.js.map",
+    "index.html": "/portfolio-react-app/index.html",
+    "static/css/main.e3984802.chunk.css.map": "/portfolio-react-app/static/css/main.e3984802.chunk.css.map",
+    "static/js/2.b0be6d78.chunk.js.LICENSE.txt": "/portfolio-react-app/static/js/2.b0be6d78.chunk.js.LICENSE.txt",
+    "static/media/logo4.png": "/portfolio-react-app/static/media/logo4.c5f22127.png",
+    "static/media/omkar10.jpg": "/portfolio-react-app/static/media/omkar10.4fdde4ab.jpg",
+    "static/media/omkar9.jpg": "/portfolio-react-app/static/media/omkar9.9fac0775.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1aaf38bf.js",
+    "static/js/2.b0be6d78.chunk.js",
+    "static/css/main.e3984802.chunk.css",
+    "static/js/main.6a41529a.chunk.js"
+  ]
+}
